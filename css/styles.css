@@ -2,26 +2,48 @@
   width: 300px;
   float: left;
   margin-right: 10px;
+  border: 1px solid black;
+  padding: 4px;
+  /*height: 1000px;*/
 }
-
+.new {
+  padding: 0;
+  border: 0px;
+  background-color: red;
+  width: 25%;
+  height: 1000px;
+}
 .column img {
   width: 100%;
+  /*border: 40px solid #d82000;*/
 }
 .right-column {
   float: right;
   width: 350px;
   background-color: lightblue;
+  padding: 1px;
   height: 1000px;
-  padding: 10px;
 }
+.right-column ul {
+  border: 1px dashed black;
 
+}
 .lcol {
   width: 400px;
   float: left;
   margin-right: 10px;
+  height: 1000px;
+  /*background-color: white;*/
 }
 
-.lcol img {
+.midcol {
+  background-color: red;
+}
+.firstcol {
+  background-color: pink;
+}
+
+.lcol {
   width: 100%;
 }
 .image-bumper {
