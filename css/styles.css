@@ -1,0 +1,41 @@
+.column {
+  width: 300px;
+  float: left;
+  margin-right: 10px;
+}
+
+.column img {
+  width: 100%;
+}
+.right-column {
+  float: right;
+  width: 350px;
+  background-color: lightblue;
+  height: 1000px;
+  padding: 10px;
+}
+
+.lcol {
+  width: 400px;
+  float: left;
+  margin-right: 10px;
+}
+
+.lcol img {
+  width: 100%;
+}
+.image-bumper {
+  margin-bottom: 100px;
+}
+
+.oversize {
+  width: 100%;
+
+}
+
+.elegant {
+  font-family: cursive;
+  color:pink;
+  font-size: 50px;
+
+}
